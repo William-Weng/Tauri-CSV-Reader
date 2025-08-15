@@ -1,0 +1,12 @@
+[
+  { "background": "#1abc9c", "text": "#ffffff", "name": "綠松石"},
+  { "background": "#e67e22", "text": "#ffffff", "name": "橘色" },
+  { "background": "#e74c3c", "text": "#ffffff", "name": "紅色" },
+  { "background": "#2980b9", "text": "#ffffff", "name": "深藍" },
+  { "background": "#8e44ad", "text": "#ffffff", "name": "紫色" },
+  { "background": "#f1c40f", "text": "#ffffff", "name": "黃色" },
+  { "background": "#2ecc71", "text": "#ffffff", "name": "綠色" },
+  { "background": "#34495e", "text": "#ffffff", "name": "深灰藍" },
+  { "background": "#ff6f61", "text": "#ffffff", "name": "珊瑚紅" },
+  { "background": "#00bcd4", "text": "#ffffff", "name": "藍綠" }
+]

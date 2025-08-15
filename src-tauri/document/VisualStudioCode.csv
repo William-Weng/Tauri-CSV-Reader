@@ -1,0 +1,34 @@
+﻿Name,Notes,URL,Level
+Auto Rename Tag,同時更改HTML前後標籤,https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag,1
+Code Runner,支持多種語言的代碼的立即執行,https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner,1
+Code Spell Checker,檢查英文拼字錯誤,https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker,1
+CodeStream,可線上團隊跟蹤問題的加強版Comment,https://marketplace.visualstudio.com/items?itemName=CodeStream.codestream,1
+Debugger for Chrome,用 Chrome 來 Debug 你的 JavaScript 代碼,https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome,1
+Excel Viewer,讀取csv檔案,https://marketplace.visualstudio.com/items?itemName=GrapeCity.gc-excelviewer,1
+HexEditor,將資料轉成16進位的Dump,https://marketplace.visualstudio.com/items?itemName=ms-vscode.hexeditor,1
+JS Parameter Annotations,自動產生標註字(像swift),https://marketplace.visualstudio.com/items?itemName=lannonbr.vscode-js-annotations,1
+Markdown Preview Enhanced,Markdown預覽,https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced,1
+Markdown Preview Github Styling,將 VSCode 內建的 Markdown 樣式替換成更接近 GitHub 的外觀,https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles,1
+One Dark Pro,文字顏色主題,https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme,1
+Paste Image,快速貼出圖片到當前目錄,https://marketplace.visualstudio.com/items?itemName=mushan.vscode-paste-image,1
+PlantUML,使用簡單的文字描述畫UML圖,https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml,1
+Power Mode,打字動畫特效,https://marketplace.visualstudio.com/items?itemName=hoovercj.vscode-power-mode,1
+TODO Highlight,TODO / FIXME高亮度顯示,https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight,1
+Trailing Spaces,高亮那些冗餘的空格,https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces,1
+TypeScript Hero,TypeScript增強型工具，auto import,https://marketplace.visualstudio.com/items?itemName=rbbit.typescript-hero,1
+Vscode-deno,deno語言的擴充工具,https://marketplace.visualstudio.com/items?itemName=denoland.vscode-deno,1
+es6-string-html,在js內高亮html,https://marketplace.visualstudio.com/items?itemName=Tobermory.es6-string-html,1
+indent-rainbow,使縮排增加顏色,https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow,1
+vscode-icons,圖示主題,https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons,1
+Monokai Pro,顏色主題 (深色),https://www.vscolors.com/,1
+Json Editor,JSON編譯器,https://marketplace.visualstudio.com/items?itemName=nickdemayo.vscode-json-editor,1
+Error Lens,直接顯示錯誤提示在句子的尾端,https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens,1
+Image preview,直接預覽圖片,https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview,1
+CodeSnap,程式碼擷圖,https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap,1
+Dark Lavender,文字主題,https://marketplace.visualstudio.com/items?itemName=t7yang.dark-lavender,1
+GitHub Copilot,是GitHub 與OpenAI 合作開發的人工智慧工具,https://marketplace.visualstudio.com/items?itemName=GitHub.copilot,1
+Bracket Pair Colorization Toggler,為這些括號上色，以增加識別度,https://marketplace.visualstudio.com/items?itemName=dzhavat.bracket-pair-toggler,1
+Better Comments,讓程式的註解有不同的樣式,https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments,1
+Remove empty lines,移除所選的空白行,https://marketplace.visualstudio.com/items?itemName=usernamehw.remove-empty-lines,1
+Prettier - Code formatter,排列所選的程式碼,https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode,1
+CSS Peek,快速在 HTML 查看 CSS 樣式,https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek,1

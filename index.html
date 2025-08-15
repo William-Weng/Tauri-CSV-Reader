@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <link rel="stylesheet" href="/src/styles.css" />
+  <style>
+  </style>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Tauri App</title>
+  <script type="module" src="/src/main.ts" defer></script>
+</head>
+
+<body>
+  <main id="container">
+    <div id="platform-selector">
+      <select id="platform-select">
+        <option value="Linux">Linux</option>
+      </select>
+    </div>
+    <div class="switch-container">
+      <input type="checkbox" id="switch" />
+      <label for="switch">
+        <span class="switch-txt"></span>
+      </label>
+    </div>
+    <div id="loader-container">
+      <div id="loader">
+        <div id="loader-circle"></div>
+        <div id="loader-text">載入中...</div>
+      </div>
+    </div>
+    <div id="card-collection-view"></div>
+    <div class="search-bar-bottom">
+    <div class="search">
+      <input id="search-bar" type="text" name="search" id="search" placeholder="輸入名稱">
+      <button id="search-btn"><img src="/src/assets/search.png" alt="搜尋"></button>    </div>
+    </div>
+  </main>
+</body>
+
+</html>

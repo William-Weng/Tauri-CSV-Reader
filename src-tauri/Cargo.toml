@@ -1,0 +1,24 @@
+[package]
+name = "CSV讀取器"
+version = "0.1.1"
+description = "A Tauri App"
+authors = ["William Weng"]
+edition = "2021"
+
+[lib]
+name = "csv_library_lib"
+crate-type = ["staticlib", "cdylib", "rlib"]
+
+[build-dependencies]
+tauri-build = { version = "2", features = [] }
+
+[dependencies]
+tauri = { version = "2", features = [] }
+tauri-plugin-opener = "2"
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+colored = "3.0"
+csv = "1.3.1"
+log = "0.4.27"
+env_logger = "0.10.2"
+chrono = "0.4.41"

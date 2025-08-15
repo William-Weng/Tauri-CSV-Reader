@@ -1,0 +1,36 @@
+﻿Name,Notes,URL,Type,Level
+ChatGPT,聊天生成預訓練轉換器，是OpenAI開發的人工智慧聊天機器人程式，於2022年12月推出。該程式使用基於GPT-3.5、GPT-4、GPT-4o架構的大型語言模型並以強化學習訓練。 ,https://chatgpt.com/,GPT,1
+Gemini,是一個多模態大型語言模型系列，由谷歌DeepMind開發，是LaMDA的後繼，屬於PaLM2系列的新一代。,https://gemini.google.com/app?hl=zh-TW,"GPT,CLI",1
+Claude,是美國科技公司Anthropic開發的人工智慧聊天機器人程式，於2023年3月推出。,https://claude.ai/,GPT,1
+文心一言,由百度公司開發的聊天機器人，能夠與人互動、回答問題及協作創作。,https://yiyan.baidu.com/,GPT,1
+Gnomic智能體平台,基於匯智智能自主研發的Carrot AI大模型和專利的“數字生命”技術，致力於提供最先進的人工智慧互動體驗。,https://www.gnomic.cn/,Store,1
+Copilot,是一款開創性的個人AI 聊天助手，由最新的OpenAI 模型和DALL·E 3 提供支援。,https://www.bing.com/chat,GPT,1
+DeepL,2017年8月由總部位於德國科隆的DeepL GmbH推出的免費神經機器翻譯服務。,https://www.deepl.com/en/translator,Translator,1
+Playground AI,2022 年成立於舊金山，生成圖片可商用，每日可免費生成500 張AI 圖片。,https://playground.com/,IDE,1
+Midjourney,是一個由位於美國加州舊金山的同名研究實驗室開發之人工智慧程式，可根據文字生成圖像。,https://www.midjourney.com/,IDE,1
+Stable Diffusion,是2022年發布的深度學習文字到圖像生成模型，它主要用於根據文字的描述產生詳細圖像。,https://stability.ai/,IDE,1
+Morph Studio,一鍵生成短影音,https://www.morphstudio.com/,IDE,1
+ Clipchamp ,是由澳洲公司 Clipchamp Pty Ltd. 開發的線上影片編輯工具，現在由 Microsoft 開發。,https://clipchamp.com/,IDE,1
+FaceFusion,AI換臉工具,https://github.com/facefusion/facefusion,Software,1
+DeepSeek,深度求索（DeepSeek），全稱杭州深度求索人工智慧基礎技術研究有限公司，是中華人民共和國的一家人工智慧與大型語言模型公司。,https://www.deepseek.com/,GPT,1
+olmOCR,可以從PDF和文件圖像中提取乾淨且結構化的純文本,https://olmocr.allenai.org/,OCR,1
+AnythingLLM,是Mintplex開發的一款整合any LLM API的開源平台，不管是OpenAI、Azure AOAI、Gemini、Huggingface、Ollama等，都可以直接透過至個平台上做使用,https://anythingllm.com/,IDE,1
+DiffusionBee,AI製圖工具，有文字生成圖形 / 圖形轉換圖形 / AI製圖…等功能,https://diffusionbee.com/,Image,1
+Chatbox AI,是一款 AI 客戶端應用和智能助手，支援眾多先進的 AI 模型和 API，可在 Windows、MacOS、Android、iOS、Linux 和網頁版上使用。,https://chatboxai.app/,IDE,1
+Ollama,是一個讓大型語言模型LLM 可以快速變成地端服務的工具,https://ollama.com/,IDE,1
+Cherry Studio,支援多服務商整合的AI對話客戶端,https://cherry-ai.com/,IDE,1
+Perplexity,是一個由AI 聊天機器人驅動的研究和對話搜尋引擎，通過自然語言預測文本來回答查詢。,https://www.perplexity.ai/,GPT,1
+DeepWiki,DeepWiki 透過利用 Devin 技術，實現了將每個程式碼庫轉化為即時可交互的文檔，極大地提升了開發者對開源專案的理解。,https://deepwiki.com/,Wiki,1
+PandaWiki,是一款 AI 大模型驅動的開源知識庫搭建系統，幫助你快速建構智能化的 產品文件、技術文件、FAQ、部落格系統，借助大模型的力量為你提供 AI 創作、AI 問答、AI 搜尋 等能力。,https://github.com/chaitin/PandaWiki,Wiki,1
+Kiro,Amazon 推出全新的 AI IDE Kiro，它除了能讓我們下 prompt 出張嘴寫程式，還能仔細規劃出規格文件、設計文件和任務清單後再開始依據 spec 寫程式。,https://kiro.dev/,IDE,1
+n8n,核心是 iPaaS (整合平台即服務)，是一個開源工作流自動化工具，旨在幫助使用者通過連接各種應用和服務，實現重複任務的自動化處理。,https://n8n.io/,Wokerflow,1
+StepFun,是階躍星辰（StepFun） 公司開發的 多模態大模型系列，旨在推動通用人工智慧（AGI）的發展。,https://www.stepfun.com/,GPT,1
+Intern-S1,「書生」科學多模態大模型模型在具備強大通用任務能力的同時，在廣泛的科學任務中也達到了最先進的性能，可與最先進的閉源商業模型相媲美。,https://github.com/InternLM/Intern-S1,GPT,1
+SkyworkUniPic ,由崑崙萬維（KunlunTech）開發的一款開源的多模態統一預訓練模型。它最大的特色是將圖像理解、文生圖和圖像編輯這三種核心功能整合在一個自回歸（autoregressive）架構中。,https://github.com/SkyworkAI/UniPic,Image,1
+HunyuanWorld,騰訊混元3D，業界首個開源且相容主流圖形管線的3D世界生成模型…,https://github.com/Tencent-Hunyuan/HunyuanWorld-1.0,Game,1
+dots.ocr,本地部署1.7B參數超強OCR大模型dots.ocr！超越GPT-4o和olmOCR！結構化精準提取複雜PDF掃描件！完美識別中英文文件、模糊掃描件與複雜表格！文件解析精準率接近100%！,https://github.com/rednote-hilab/dots.ocr,OCR,1
+Dify,一個開源的 LLM 應用開發平台，讓你透過視覺化編排 Prompt、管理知識庫和工具，快速建構和營運由大型語言模型驅動的 AI 應用。,https://dify.ai/,IDE,1
+coze-studio,是無代碼 AI Bot 平台，讓你整合插件、知識庫，並將創作的機器人一鍵發布到 Discord、Telegram 等通訊軟體。,https://github.com/coze-dev/coze-studio,IDE,1
+LM Studio, 是一個提供圖形化介面的Desktop應用程式，讓使用者可以在本地電腦上運行與實驗各種開源LLM。,https://lmstudio.ai/,IDE,1
+RovoDevCLI,免費版 Claude Code！每天免費 2000 萬 tokens,https://www.atlassian.com/,CLI,1
+Stable-Diffusion-WebUI,利用Stable Diffusion圖像模型進行AI繪圖的IDE介面…,https://github.com/AUTOMATIC1111/stable-diffusion-webui,"IDE,Image",1

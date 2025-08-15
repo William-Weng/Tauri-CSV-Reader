@@ -1,0 +1,35 @@
+﻿Name,Notes,URL,Example,Level
+lsof,列出行程開啟的檔案 - List Open Files,https://blog.gtwang.org/linux/linux-lsof-command-list-open-files-tutorial-examples/,lsof -i:8080,4
+kill,強迫關閉程式 - Kill,https://blog.gtwang.org/linux/linux-kill-killall-xkill/,kill $(lsof -t -i:8080),2
+grep,匹配文字 - Global Regular Expression Print,https://blog.gtwang.org/linux/linux-grep-command-tutorial-examples/,grep Ubuntu /etc/os-release,3
+ls,列出檔案與目錄列表 - List,https://blog.gtwang.org/linux/linux-ls-command-tutorial/,ls -al,1
+apt,套件管理工具 - Advanced Packaging Tools,https://sean22492249.medium.com/常用的-apt-指令-安裝-更新-移除-cbb56f595568,apt install ffmpeg,1
+dd,資料複製 - Data Duplicator,https://blog.gtwang.org/linux/dd-command-examples/,dd if=/dev/sda of=back.img bs=16MB status=progress,3
+dpkg,套件管理工具 - Debian Package,https://man.linuxde.net/dpkg,dpkg -l,1
+fdisk,分割硬碟工具，可分割MBR分割表 - Format Disk,http://linux.vbird.org/linux_basic/0230filesystem.php#fdisk,fdisk -l,1
+ps,列出Process的相關資訊 - Process Status,https://david50.pixnet.net/blog/post/45224451-[筆記]linux指令-ps(process-status),ps aux | grep mysql,1
+axel,多線程下載工具,https://man.linuxde.net/axel,axel -a -n 10 https://chrome.exe,1
+pv,即時監看通過管線的資料量 - Pipe View,https://www.howtoing.com/monitor-copy-backup-tar-progress-in-linux-using-pv-command,pv book.pdf | gzip > book.gz,1
+service,有關服務的相關指令 - Service,https://claire-chang.com/2019/10/01/linux管理service/,service nginx status,1
+systemctl,系統服務管理器指令 - System Control,https://blog.longwin.com.tw/2018/02/linux-systemd-auto-start-daemon-service-2018/,systemctl restart httpd.service,1
+arch,用於顯示當前主機的硬件架構類型 - Archive,https://man.linuxde.net/arch,arch -x86_64 zsh,3
+diskutil,磁碟管理工具 - Disk Utility Tool,https://www.itread01.com/content/1546611722.html,diskutil list,3
+smartctl,檢測硬碟 SMART 健康狀態 - Smart Contol,https://ithelp.ithome.com.tw/articles/10138336,smartctl -a disk1s1,2
+echo,直接輸出指定的字串,https://man.linuxde.net/echo,"echo ""Hello World"" >> 1.txt",1
+touch,建置新檔,http://linux.vbird.org/linux_basic/0220filemanager.php#touch,touch demo.txt,1
+ln,建立連結檔 - Link,https://blog.gtwang.org/linux/linux-ln-command-tutorial-examples/,ln demo.txt hardlink.txt,2
+pwd,印出目前的所在位置 - Print Working Directory,https://youtu.be/-fzO7iWCSWY,pwd,1
+cd,切換目錄 - Change Directory,https://www.tokfun.net/os/linux/linux-cd-command/,cd ~/Desktop,1
+tldr,快速查詢常用指令範例 - Too long; Didn’t read,https://tldr.sh/,tldr curl,1
+xattr,管理擴展檔案屬性 - Extended attributes,https://www.cnblogs.com/Flat-White/p/17153264.html,ç /Applications/BongoCat.app,1
+nmap,是一種免費且開源的系統及網路掃描工具,https://youtu.be/bTwc26pjmdc,nmap -sS,1
+jobs,用於查看和管理當前 shell 會話中後台任務的內建命令,https://linux.vbird.org/linux_basic/centos7/0440processcontrol.php,jobs,1
+mkdir,建立一個空的目錄 - Make Directory,https://www.ibm.com/docs/zh-tw/aix/7.1.0?topic=directories-creating-mkdir-command,mkdir -m 755 /home/demo/sub1/Test,1
+rmdir,刪除一個空的目錄 - Remove Directory,https://linux.vbird.org/linux_basic/centos7/0220filemanager.php,rmdir -p test1/test2/test3/test4,1
+su,可以讓一般的 Linux 使用者取得 root 權限，取得 root 權限的使用者就如同 root 一樣可以對系統進行各種變更動作 - Switch User,https://www.runoob.com/linux/linux-comm-su.html,su username,1
+useradd,新增使用者帳號 - User Add,https://blog.gtwang.org/linux/linux-useradd-command-tutorial-examples/,sudo useradd william,1
+passwd,設定使用者密碼 - Password,https://blog.gtwang.org/linux/linux-passwd-command-examples/,sudo passwd william,1
+uname,命令用於顯示作業系統資訊 - Unix Name,https://www.runoob.com/linux/linux-comm-uname.html,uname -a,1
+sudo,允許系統管理員分配給一般用戶合理的權限，讓他們執行一些只有系統管理員或其他特定帳號才能完成的任務 - Superuser Do,https://note.drx.tw/2008/01/linuxsudo.html,sudo passwd william,1
+usermod,可用來修改使用者帳號的各項設定 - User Modify,https://www.runoob.com/linux/linux-comm-usermod.html,sudo usermod -aG wheel myuser,1
+df,檢查硬碟使用量 - Disk Free,https://blog.gtwang.org/linux/linux-df-command-check-disk-space-usage-tutorial-script-example/,df -h,1

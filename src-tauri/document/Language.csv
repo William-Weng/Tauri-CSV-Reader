@@ -1,0 +1,68 @@
+﻿Name,Notes,URL,Type,Level
+C,C是一種通用的程式語言，廣泛用於系統軟體與應用軟體的開發,https://zh.wikipedia.org/zh-tw/C语言,Program,5
+C++,C++是一種被廣泛使用的電腦程式設計語言。它是一種通用程式設計語言，支援多重程式設計模式，例如程序化程式設計、資料抽象化、物件導向程式設計、泛型程式設計和設計模式等。 ,https://zh.wikipedia.org/zh-tw/C++,Program,4
+Objective-C,Objective-C是一種通用、進階、物件導向的程式語言。它擴充了標準的ANSI C程式語言，將Smalltalk式的訊息傳遞機制加入到ANSI C中。,https://zh.wikipedia.org/zh-tw/Objective-C,"Program,Mobile",4
+Swift,Swift程式語言，支援多編程範式和編譯式，用來撰寫基於macOS/OS X、iOS、iPadOS、watchOS和tvOS的軟體。 ,https://zh.wikipedia.org/zh-tw/Swift_(程式語言),"Program,Mobile",3
+Java,Java是一種廣泛使用的電腦程式設計語言，擁有跨平台、物件導向、泛型程式設計的特性，廣泛應用於企業級Web應用開發和行動應用開發。 ,https://zh.wikipedia.org/zh-tw/Java,"Program,Web,Server,Mobile",3
+SQL,SQL是一種特定目的程式語言，用於管理關聯式資料庫管理系統（RDBMS），或在關係流資料管理系統（RDSMS）中進行流處理。 ,https://zh.wikipedia.org/zh-tw/SQL,"Program,SQL",3
+Kotlin,Kotlin是一種在Java虛擬機上執行的靜態型別程式語言，它也可以被編譯成為JavaScript原始碼。,https://zh.wikipedia.org/zh-tw/Kotlin,"Program,Mobile",2
+Groovy,Apache的Groovy是Java平台上設計的物件導向程式設計語言。,https://zh.wikipedia.org/zh-tw/Groovy,"Program,Server",2
+Python,Python是一種廣泛使用的直譯式、進階和通用的程式語言。,https://zh.wikipedia.org/zh-tw/Python,"Program,Script",2
+JavaScript,JavaScript是一種進階的、直譯的程式語言。,https://zh.wikipedia.org/zh-tw/JavaScript,"Program,Web,Script",2
+HTML,超文本標記語言（英語：HyperText Markup Language，簡稱：HTML）是一種用於建立網頁的標準標記語言。,https://zh.wikipedia.org/zh-tw/HTML,"Program,Web",1
+CSS,階層式樣式表（英語：Cascading Style Sheets，縮寫：CSS；又稱串樣式列表、級聯樣式表、串接樣式表、階層式樣式表）是一種用來為結構化文件（如HTML文件或XML應用）添加樣式（字型、間距和顏色等）的電腦語言，由W3C定義和維護。,https://zh.wikipedia.org/zh-tw/层叠样式表,"Program,Web",1
+LUA,Lua是一個簡潔、輕量、可延伸的手稿語言。,https://zh.wikipedia.org/zh-tw/Lua,"Program,Script,Game",2
+C#,C#是微軟推出的一種基於.NET框架的、物件導向的進階程式語言。C#是一種由C和C++衍生出來的物件導向的程式語言。,https://zh.wikipedia.org/zh-tw/C♯,"Program,Server",2
+BASIC,BASIC（來自英語：Beginner's All-purpose Symbolic Instruction Code的縮寫）又譯培基，是一種直譯式程式設計語言。,https://zh.wikipedia.org/zh-tw/BASIC,Program,1
+DART,Dart是一種適用於全球資訊網的開放原始碼程式語言，由Google主導開發，於2011年10月公開。,https://zh.wikipedia.org/zh-tw/Dart,"Program,Mobile",3
+PHP,PHP（全稱：PHP：Hypertext Preprocessor，即「PHP：超文字預處理器」）是一種開源的通用電腦手稿語言，尤其適用於網路開發並可嵌入HTML中使用。,https://zh.wikipedia.org/zh-tw/PHP,"Program,Server",2
+Bash,Bash，Unix shell的一種，在1987年由布萊恩·福克斯為了GNU計劃而編寫。,https://zh.wikipedia.org/zh-tw/Bash,Program,2
+Ruby,Ruby 是一種物件導向、命令式、函數式、動態的通用程式語言。,https://zh.wikipedia.org/zh-tw/Ruby,"Program,Web",3
+Logica,Google 推出新程式語言 Logica，要簡化超長的 SQL 程式碼。,https://buzzorange.com/techorange/2021/04/22/logica-optimize-sql-code/,Program,5
+Go,是Google開發的一種靜態強型別、編譯型、並發型，並具有垃圾回收功能的程式語言。 ,https://golang.org/,"Program,Web,Server",3
+Yue,重構Electron的專案,https://libyue.com/,IDE,3
+Electron,它通過使用Node.js（作為後端）和Chromium的彩現引擎（作為前端）完成跨平台的桌面GUI應用程式的開發。,https://www.electronjs.org/,IDE,3
+Markdown,是一種輕量級標記式語言，創始人為約翰·格魯伯。它允許人們使用易讀易寫的純文字格式編寫文件，然後轉換成有效的XHTML（或者HTML）文件。,https://daringfireball.net/projects/markdown/,"Program,Web",1
+Textile,使用在Redmine上的標記式文件語言，跟Markdown很類似。,https://www.redmine.org/projects/redmine/wiki/TraditionalChineseWikiFormatting,Program,1
+Carbon,開源Carbon語言，旨在成為C++的繼任者,https://github.com/carbon-language/carbon-lang,Program,1
+Node.js,JavaScript / TypeScript 執行階段環境,https://nodejs.org/,"Program,Web,Server,Script",3
+Deno,JavaScript / TypeScript 執行階段環境,https://deno.land/,"Program,Web,Server,Script",3
+Bun,JavaScript / TypeScript 執行階段環境,https://bun.sh/,"Program,Web,Server,Script",3
+Yasm,是一個組合語言的編譯器 (Assembler),http://yasm.tortall.net/,"Program,Assembler",5
+Buildah,是一套專門為了 build image容器設計的工具,https://buildah.io/,,3
+Kubernetes,K8s是一種可用來自動化部屬、擴展及管理多個容器（Container）的系統，適用於當容器數量增加,https://kubernetes.io/,,5
+LXD,就是專門為 LXC (Linux Container Deamon) 提供服務功能的 Daemon,https://github.com/lxc/lxd,,3
+Podman,是一套Red Hat 提供的容器管理工具組，這個工具組包含了數個工具,https://podman.io/,,3
+Docker,是一種軟體平台，可讓您快速地建立、測試和部署應用程式。,https://www.docker.com/,,4
+Yarn,JS套件管理工具,https://yarnpkg.com/,,2
+RabbitMQ,是一套開源（MPL）的訊息佇列服務軟體，是由LShift 提供的一個Advanced Message Queuing Protocol (AMQP) 的開源實現,https://www.rabbitmq.com/getstarted.html,,3
+Oracle-JDK,OracleJDK,https://www.oracle.com/technetwork/java/javase/downloads/,SDK,1
+LÖVE,使用Lua的免費2D遊戲引擎,https://love2d.org/,"Engine,Game,2D",2
+LÖVR,使用Lua的免費3D遊戲引擎,https://lovr.org/,"Engine,Game,2D,3D",3
+Koala,LESS/SASS 即時監控與編譯工具,http://koala-app.com/,CSS,3
+Kafka,是由Apache軟體基金會開發的一個開源流處理平台，由Scala和Java編寫。該專案的目標是為處理即時資料提供一個統一、高吞吐、低延遲的平台。,https://kafka.apache.org/,,3
+JSONVisio,JSON視覺化工具,https://github.com/AykutSarac/jsonvisio.com,,1
+JD-GUI,Java反編譯工具,http://java-decompiler.github.io/,,3
+Intellij-IDEA,集大成的Java IDE,https://www.jetbrains.com/idea/,IDE,3
+HeidiSQL,自由開源的資料庫管理工具，用於MySQL及其分支，以及Microsoft SQL Server和PostgreSQL,https://www.heidisql.com/,"IDE,SQL",4
+HBuilderX,專為Vue產生的前端開發工具IDE，可用來開發多平台APP,https://www.dcloud.io/hbuilderx.html,"IDE,Web",2
+Godot,是一款多功能、跨平台的2D/3D開源遊戲引擎,https://godotengine.org/,"Engine,Game,2D,3D,IDE",3
+Dex2Jar,Android APK反編譯工具,https://sourceforge.net/projects/dex2jar/,APK,3
+Dev-C++,C++ IDE,https://sourceforge.net/projects/orwelldevcpp/,IDE,4
+DecimalBASIC,BASIC IDE,http://hp.vector.co.jp/authors/VA008683/,IDE,2
+DBeaver,以Java開發的SQL IDE,https://dbeaver.io/,IDE,3
+DB-Browser-For-Sqlite,視覺化的 SQLite 管理工具,https://sqlitebrowser.org/,"IDE,SQL",3
+Android-Studio,Android開發IDE,https://developer.android.com/,"IDE,Mobile",3
+AdoptOpenJDK,OpenJDK,https://adoptopenjdk.net/,SDK,2
+Squirrel,是一種較新的程式設計語言，它從著名的LUA語言繼承了很多特性，適用的範圍也與LUA語言相似。,http://www.squirrel-lang.org/,Program,2
+Rust,是由Mozilla主導開發的通用、編譯型程式語言。,https://www.rust-lang.org/,"Program,WASM",3
+Zig,是一個命令式、通用、靜態型別、編譯的系統程式語言,https://ziglang.org/,Program,3
+Defold,免費且開放原始碼的跨平臺遊戲引擎，主要用於開發2D遊戲，但也能夠處理3D遊戲。,https://defold.com/,"Engine,Game,2D,3D",2
+OCaml,是一個函數式、指令式、模組化[1]、物件導向的通用的程式語言。,https://ocaml.org/,Program,1
+Unity,是一款跨平台的遊戲引擎，可用於開發2D和3D遊戲，支援多種個人電腦、行動裝置、遊戲主機、網頁平台、擴增實境和虛擬實境，其中在iOS和Android的遊戲開發上特別受歡迎，被認為容易上手，並在獨立遊戲開發中廣受歡迎。截至2018年，該引擎所支援的平台已經達到27個。,https://unity.com/,"Engine,Game,2D,3D",3
+Gdevelop,是一個2D和3D跨平台、免費開源的遊戲引擎，主要專注於創建PC和行動遊戲，以及可在瀏覽器中玩的HTML5遊戲。,https://gdevelop.io/,"Engine,Game,2D",2
+FreePascal,是一個支援16位元，32位元和64位元處理器的專業 Pascal 語言編譯器，支援多種處理器架構,https://www.freepascal.org/,Program,1
+Lazarus,使用Free Pascal編譯器，支援Object Pascal語言，與Delphi高度相容，並被視作後者的自由軟體替代品,https://www.lazarus-ide.org/,IDE,3
+Typst,一種新型的標記語言，比LaTeX更加的輕便,https://github.com/typst/typst,"Program,TeX",3
+Roc,是一種現代化的函數式程式語言，主要用於構建高效能、可靠的後端服務和命令列應用程式。,https://www.roc-lang.org/,Program,2
+Emscripten,是基於LLVM / Clang的編譯器，用來將C和C++原始碼編譯為WebAssembly。,https://emscripten.org/,"Compiler,WASM",3

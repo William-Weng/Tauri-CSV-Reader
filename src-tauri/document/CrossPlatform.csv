@@ -1,0 +1,21 @@
+﻿Name,Notes,URL,Platform,Level
+Electron,是GitHub開發的一個開源框架。,https://www.electronjs.org/,"Windows,macOS,Linux,Android,iOS",1
+Flutter,是一個由谷歌開發的開放原始碼跨平台應用程式軟體開發套件，用於為Android、iOS、Windows、macOS、Linux Desktop、Google Fuchsia開發應用程式。,https://flutter.dev/,"Windows,macOS,Linux,Android,iOS",1
+Tauri,是一個跨平台的GUI框架，與Electron的類似。,https://v2.tauri.app/,"Windows,macOS,Linux,Android,iOS",1
+React Native,是一個Meta研發的開放源碼的應用程式架構。,https://reactnative.dev/,"Windows,macOS,Linux,Android,iOS",1
+Qt,是一個跨平台的C++應用程式開發框架。,https://www.qt.io/,"Windows,macOS,Linux",1
+Skip,使用SwiftUI開發iOS / Adnroid的APP應用程式開發框架。,https://skip.tools/,"Android,iOS",1
+Dioxus,是一款用於建構跨平台使用者介面的框架（生態系統），它使用 Rust 程式語言。,https://dioxuslabs.com/,"Windows,macOS,Linux,Android,iOS",1
+Wails,使用 Go 建構漂亮的跨平台應用程式,https://wails.io/,"Windows,macOS,Linux",1
+PyWebView,打造跨平台桌面應用的Python利器,https://pywebview.flowrl.com/,"Windows,macOS,Linux",1
+WebView-Bun,開啟Bun時代的桌面應用新紀元,https://github.com/tr1ckydev/webview-bun,"Windows,macOS,Linux",1
+WebView-Nodejs,使用Nodejs做多平台桌面應用開發,https://github.com/Winterreisender/webview-nodejs,"Windows,macOS,Linux",1
+WebView_Ruby ,使用Ruby做多平台桌面應用開發,https://github.com/Maaarcocr/webview_ruby,"Windows,macOS,Linux",1
+WebView_Java,使用Java做多平台桌面應用開發,https://github.com/webview/webview_java,"Windows,macOS,Linux",1
+Lua-WebView,使用Lua做多平台桌面應用開發,https://github.com/javalikescript/lua-webview,"Windows,macOS,Linux",1
+Kivy,是開源Python函式庫，用於開發行動應用程式和其它採用自然使用者介面的多點觸控應用軟體。它可以在Android，iOS，Linux，OS X和Windows執行。採用MIT授權條款，Kivy是自由並且開源的軟體。,https://kivy.org/,"Windows,macOS,Linux,Android,iOS",1
+NW.js,是一個開源的跨平台桌面應用程序開發框架。它可以讓你使用 HTML、CSS、JavaScript 等 Web 技術來開發桌面應用程序。,https://nwjs.io/,"Windows,macOS,Linux",1
+Avalonia,Avalonia UI 是一個在 .Net Core 的框架，具備跨平臺特性，可以做到一次開發多平台使用，可應用於 Windows、Linux、MacOS、Android、iOS以及WebAssembly。,https://avaloniaui.net/,"Windows,macOS,Linux,Android,iOS",1
+ egui ,是一個用 Rust 編寫的即時圖形使用者介面(GUI)函式庫,https://github.com/emilk/egui,"Windows,macOS,Linux",1
+iced,是一個用 Rust 編寫的即時圖形使用者介面(GUI)函式庫,https://github.com/iced-rs/iced,"Windows,macOS,Linux",1
+Capacitor," Ionic 團隊推出的一個跨平台原生應用開發框架。與 Cordova 類似，Capacitor 允許開發者使用網頁技術（如 HTML, CSS 和 JavaScript）來開發原生應用程式，Capacitor 提供豐富的原生 API，使網頁技術開發者可以更容易的使用行動裝置所提供的 API 與功能。",https://capacitorjs.com/,"Android,iOS",1

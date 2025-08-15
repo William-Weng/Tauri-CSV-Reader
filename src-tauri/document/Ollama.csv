@@ -1,0 +1,14 @@
+﻿Name,Notes,URL,Type,Level
+deepseek-r1 ,是深度求索（DeepSeek）於2025年1月20日發布的人工智慧大型語言模型，專門適用於數學、編碼和邏輯等任務，性能對標OpenAI o1,https://ollama.com/library/deepseek-r1,"Text,Image,Chat",1
+gemma3,是Google推出的開源大型語言模型系列,https://ollama.com/library/gemma3,"Google,Text,Image,Chat",1
+llama3.2,是Meta推出的開源大型語言模型系列,https://ollama.com/library/llama3.2,"Text,Image,Chat",1
+all-minilm,是一個輕量級的語言模型，專門用於文本嵌入和相似度計算,https://ollama.com/library/all-minilm,"Embedding,Text",1
+phi3,微軟所出的多模態小型文字圖像開源模型,https://ollama.com/library/phi3,"Text,Image",1
+qwen3,阿里巴巴開源Qwen3模型家族，引入「思考模式」與「非思考模式」兩種推理策略，讓使用者可根據任務需求靈活調整模型的推理深度與回應速度,https://ollama.com/library/qwen3,"Tools,Text,Image,Chat",1
+nomic-embed-text ,是一個基於 Sentence Transformers 庫的句子嵌入模型，專門用於和句子相似度計算,https://ollama.com/library/nomic-embed-text,Embedding,1
+mistral,視覺與語文理解能力領先Google新推的Gemma 3,https://ollama.com/library/mistral,Tools,1
+qwq ,阿里巴巴開源宣稱可媲美DeepSeek-R1的QwQ-32B模型,https://ollama.com/library/qwq,Tools,1
+OCRFlux,3B小參數模型企業級OCR精準率驚人超越olmOCR,https://ollama.com/myaniu/OCRFlux-3B,"Text,OCR",1
+gpt-oss,OpenAI的開源模型,https://ollama.com/library/gpt-oss,"Text,Chat",1
+bge-m3,因其在多語言、多功能和多粒度方面的能力而得名。BGE-M3 可支援超過 100 種語言，為多語言和跨語言檢索任務設定了新的基準。其在單一框架內執行密集檢索、多向量檢索和稀疏檢索的獨特能力，使其成為廣泛資訊檢索 (IR) 應用的理想選擇。,https://ollama.com/library/bge-m3,"Embedding,Text",1
+glm4,強大的多語言通用語言模型，具有與 Llama 3 相比具有競爭力的性能。,https://ollama.com/library/glm4,Text,1
