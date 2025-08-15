@@ -1,6 +1,6 @@
 [package]
 name = "CSV讀取器"
-version = "0.1.1"
+version = "0.1.2"
 description = "A Tauri App"
 authors = ["William Weng"]
 edition = "2021"
