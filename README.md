@@ -1,7 +1,9 @@
 ## [簡易的CSV文件讀取器](https://william-weng.github.io/2025/06/tauri當rust跟web同在一起在一起在一起/)
 
-## 安裝執行
+## [安裝執行](https://william-weng.github.io/tags/rust/)
 ```bash
+brew install node
+brew install rust
 npm install
 npm run tauri build
 ```
